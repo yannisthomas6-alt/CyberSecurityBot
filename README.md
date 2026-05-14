@@ -66,3 +66,4 @@ In the video, explain:
 - How memory and recall works
 - How sentiment detection changes the bot's response
 - How error handling prevents crashes
+This update was added for Part 2 of the POE/formative assessment.
